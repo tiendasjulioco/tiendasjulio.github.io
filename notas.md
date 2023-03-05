@@ -8,6 +8,6 @@
     <meta name="description" content="...">
 </head>
 <body>
-    
+    Más de Tiendas Julio
 </body>
 </html>
